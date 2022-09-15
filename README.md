@@ -10,7 +10,7 @@ I’m a Software Engineer, UX/UI Designer, Researcher, Modeler, Finance Analytst
 - 💡 Fun fact: I am currently studying at Altschool Africa[School of Software     Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and UX/UI Design at Futurelearn School organized by Accenture.
 - 🌱 Technical: I’m currently improving my skills in HTML, CSS, Javascript, NodeJS, ReactJS, UX/UI Design (Figma, Figjam, iRise) and GIS Modeling
 - 😊 Focus: I am looking for opportunities in Open Source Projects, Hackathons, Software Development and UX/UI Design to enhance learning and earning;
-- 💼 Job interests: Software Engineer [Frontend/Backend/Full Stack], UX/UI Designer[Researcher, Content Creator, Modeling] and Tech Company Management[C-level] Roles both on premise and remote.
+- 💼 Job interests: Software Engineer [Frontend/Backend/Full Stack], UX/UI Designer[Researcher, Content Creator, Geospatial Modeler] and Tech Company Management[C-level] Roles both on premise and remote.
 - 📫 Contact: Please take some time to review my resume[view my resume], and if my capabilities fit your requirement contact me by emailing awelenkem@yahoo.com.
 
 ---
